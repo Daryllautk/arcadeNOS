@@ -1,0 +1,11 @@
+
+That dApp is based in a web browser that allow users play to "free games", why free games got that quotation marks,
+because every time the user play to the game, a tx will be made, with that amount, the player will be able to play one time to 
+the game.
+
+That dapp incentives the decentralization of the games platforms, helping to games developers get some tips for their work,
+as much addictive and better content, more tips and revenue will get the gamedeveloper
+
+For now, we will do a mvp with one game, but the main idea is get a lot of developers upload their code to the platform and with
+the help of the smartcontract get his tips.
+
