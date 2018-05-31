@@ -1,0 +1,7 @@
+// Functions to be USED
+// getAddress - Provide the address of the authenticated account. No require the user grant permision.
+// getBalance - Provide the balance of a certain address for a specified asset or NEP5 token.
+// claimGas   - Claims the unclaimed Gas on behalf of the currently authenticated account. Requires user to grant permision.
+// send       - Create a contract transaction to send assets (NEO or GAS) to a specified address. Requires user to grant permision.
+
+//Working in project.
